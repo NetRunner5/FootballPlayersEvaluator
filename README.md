@@ -34,7 +34,7 @@ Skill_Moves | rating of 1 to 5 of the player's ability to move
 Etc... | The other variables refer to player attributes.
   
   
-The contents of the **fifaNet.csv** are as follows:
+The contents of the **FifaNET.csv** are as follows:
 
 Variable | Description
 ------------------ | -------------------
