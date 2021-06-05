@@ -9,7 +9,7 @@ This scrapper has been programmed using RStudio and RMarkdown in R. These are th
 
 
 ## Contents 
-The contents of the result .csv are as follows:
+The contents of the Fifa.csv from https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global are as follows:
 
 Variable | Description
 ------------------ | -------------------
