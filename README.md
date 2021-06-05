@@ -9,7 +9,7 @@ This scrapper has been programmed using RStudio and RMarkdown in R. These are th
 
 
 ## Contents 
-The contents of the Fifa.csv from https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global are as follows:
+The contents of the **Fifa.csv** from https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global are as follows:
 
 Variable | Description
 ------------------ | -------------------
@@ -34,7 +34,7 @@ Skill_Moves | rating of 1 to 5 of the player's ability to move
 Etc... | The other variables refer to player attributes.
   
   
-The contents of the Result.csv are as follows:
+The contents of the **fifaNet.csv** are as follows:
 
 Variable | Description
 ------------------ | -------------------
@@ -62,6 +62,8 @@ clasificacion2 | Simple version of classification of the player based on the rat
 porter | If the player position is Goalkeeper
 internacional | If player is playing in the national team
 
+**PRA2.Rmd**: R file used for the analysis
+**PRA2.html**: Html of the analysis report
 
 ## Team members
 Junjie Zhu and Antoni Sanchez Teruel
