@@ -62,9 +62,9 @@ clasificacion2 | Simple version of classification of the player based on the rat
 porter | If the player position is Goalkeeper
 internacional | If player is playing in the national team
 
-**PRA2.Rmd**: R file used for the analysis
-**PRA2.html**: Html of the analysis report
-**PRA2.pdf**: Pdf of the analysis report
+**PRA2.Rmd**: R file used for the analysis  
+**PRA2.html**: Html of the analysis report  
+**PRA2.pdf**: Pdf of the analysis report  
 
 ## Team members
 Junjie Zhu and Antoni Sanchez Teruel
